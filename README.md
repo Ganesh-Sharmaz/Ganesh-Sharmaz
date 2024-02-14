@@ -39,5 +39,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-sharmaz&" alt="ganesh-sharmaz" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ganesh_sharmaz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Ganesh" style="height: 60px !important;width: 217px !important;" ></a></a></p><br><br>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ganesh_sharmaz" data-color="#FF5F5F" data-emoji="🍫" data-font="Cookie" data-text="Buy me a protien bar" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<p><a href="https://www.buymeacoffee.com/ganesh_sharmaz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ganesh_sharmaz" /></a></p><br><br>
