@@ -43,6 +43,16 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ganesh-Sharmaz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31aun2kjmrvdqlgvc25v57ebgcl4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aun2kjmrvdqlgvc25v57ebgcl4&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
