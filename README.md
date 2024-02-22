@@ -13,7 +13,9 @@
 
 - 👯 I’m looking to collaborate on **Open-Source**
 
-- 👨‍💻 My Latest project is here [https://anime-waifus.vercel.app/](https://anime-waifus.vercel.app/)
+- 👨‍💻 My Latest project is here [Groovy](groovy-nine.vercel.app)
+
+- 👨‍💻 My other projects [Anime Waifuss](https://anime-waifus.vercel.app/), [Password Generator](https://password-web.vercel.app/)
 
 - 💬 Ask me about **React, Mongoose, Express, Tailwind CSS, JavaScript, CSS, and HTML**
 
