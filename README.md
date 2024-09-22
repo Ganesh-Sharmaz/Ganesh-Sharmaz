@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Node.js, MongoDB.**
+- 🌱 I’m currently learning **GraphQL & Prisma.**
 
 - 👯 I’m looking to collaborate on **Open-Source**
 
-- 👨‍💻 My Latest project is here [Groovy](groovy-nine.vercel.app)
+- 👨‍💻 My Latest project is here [YapperAI](https://yapper-ai.vercel.app/)
 
-- 👨‍💻 My other projects [Anime Waifuss](https://anime-waifus.vercel.app/), [Password Generator](https://password-web.vercel.app/)
+- 👨‍💻 My other projects [Groovy](groovy-nine.vercel.app), [Anime Waifuss](https://anime-waifus.vercel.app/), [Password Generator](https://password-web.vercel.app/)
 
 - 💬 Ask me about **React, Mongoose, Express, Tailwind CSS, JavaScript, CSS, and HTML**
 
