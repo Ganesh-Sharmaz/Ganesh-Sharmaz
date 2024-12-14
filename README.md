@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **GraphQL & Prisma.**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **Open-Source**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 My other projects [Groovy](groovy-nine.vercel.app), [Anime Waifuss](https://anime-waifus.vercel.app/), [Password Generator](https://password-web.vercel.app/)
 
-- 💬 Ask me about **React, Mongoose, Express, Tailwind CSS, JavaScript, CSS, and HTML**
+- 💬 Ask me about **React, NextJS, MongoDB, Express, JavaScript, TypeScript, Tailwind CSS, CSS, and HTML**
 
 - 📫 How to reach me **shashanklhr@gmail.com**
 
